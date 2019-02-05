@@ -1,0 +1,491 @@
+id,body,comment_count,community_owned_date,creation_date,last_activity_date,last_edit_date,last_editor_display_name,last_editor_user_id,owner_display_name,owner_user_id,post_type_id,score,tags
+4164933,"<p><a href=""http://en.wikipedia.org/wiki/Argument-dependent_name_lookup"" rel=""nofollow"">ADL</a> is mostly associated with <a href=""/tags/c++/info"">C++</a>.</p>",0,,2010-11-12 13:10:14.273000+00:00,2010-11-12 15:48:57.207000+00:00,2010-11-12 15:48:57.207000+00:00,Roger Pate,,,-1,3,0,
+4164934,"ADL is argument-dependent lookup, sometimes called Koenig lookup.",0,,2010-11-12 13:10:14.273000+00:00,2010-11-12 15:48:57.237000+00:00,2010-11-12 15:48:57.237000+00:00,Roger Pate,,,-1,3,0,
+3625172,"<p>Emacs Lisp is the extension language for the GNU Emacs text editor, and in fact, most of the functionality of Emacs is implemented using Emacs Lisp.  Users generally customize Emacs' behavior by adding Emacs Lisp statements to their .emacs, or writing separate packages.  A guide to learning Emacs Lisp for non-programmers can be found here.</p>
+
+<p>Emacs Lisp differs from most other lisps in two main ways:</p>
+
+<p>It has special features for scanning and parsing text, </p>",0,,2010-08-02 18:22:47.767000+00:00,2010-08-02 18:22:47.767000+00:00,2010-08-02 18:22:47.767000+00:00,,6148,,-1,3,0,
+3625171,"<p><a href=""http://www.gnu.org/software/emacs/manual/html_node/elisp/index.html"" rel=""nofollow noreferrer"">Emacs Lisp</a> is the extension language for the <a href=""http://www.gnu.org/software/emacs/"" rel=""nofollow noreferrer"">GNU Emacs text editor</a>, and in fact, most of the functionality of Emacs is implemented using Emacs Lisp.  Users generally customize Emacs' behavior by adding Emacs Lisp statements to their .emacs, or writing separate packages.  A guide to learning Emacs Lisp for non-programmers can be found <a href=""http://www.gnu.org/software/emacs/emacs-lisp-intro/html_node/index.html"" rel=""nofollow noreferrer"">here</a>.</p>
+
+<p>Emacs Lisp differs from most other lisps in two main ways:</p>
+
+<ol>
+<li>It has special features for scanning and parsing text, as well as features for handling files, buffers, arrays, displays, and subprocesses.  This is due to the fact that it is designed to be used in a text editor</li>
+<li>It uses <a href=""http://en.wikipedia.org/wiki/Scope_(programming)#Dynamic_scoping"" rel=""nofollow noreferrer"">dynamic scope</a> as opposed to lexical scope.  This was done very intentionally, the reasons are well explained in the <a href=""http://www.gnu.org/software/emacs/emacs-paper.html#SEC17"" rel=""nofollow noreferrer"">1981 paper</a> on Emacs.</li>
+</ol>
+
+<h2>Wisdom from the Stack</h2>
+
+<ul>
+<li><a href=""http://stackoverflow.com/questions/154097/whats-in-your-emacs"">What's in your .emacs?</a></li>
+<li><a href=""http://stackoverflow.com/questions/41522/tips-for-learning-elisp"">Tips for learning Elisp?</a></li>
+<li><a href=""http://stackoverflow.com/questions/2241111/lisp-community-quality-tutorials-resources"">Lisp Community - Quality tutorials/resources</a></li>
+<li><a href=""http://stackoverflow.com/questions/2087532/troubleshooting-techniques-for-emacs-and-elisp"">Troubleshooting techniques for Emacs and Elisp</a> </li>
+</ul>",0,,2010-08-02 18:22:47.767000+00:00,2010-08-02 18:22:47.767000+00:00,2010-08-02 18:22:47.767000+00:00,,6148,,-1,3,0,
+5149479,A setting in jQuery AJAX that allows you to sanitize responses.,0,,2011-03-01 01:13:46.040000+00:00,2011-03-01 01:50:43.010000+00:00,2011-03-01 01:50:43.010000+00:00,,7173,,-1,3,0,
+5149478,"<p><a href=""http://api.jquery.com/jQuery.ajax/"" rel=""nofollow"">See more here</a> (scroll to <strong>dataFilter</strong>)</p>",0,,2011-03-01 01:13:46.040000+00:00,2011-03-01 01:50:43.913000+00:00,2011-03-01 01:50:43.913000+00:00,,7173,,-1,3,0,
+5746108,"The manager is a pre-installed webapp on Apache Tomcat to remotely manage (install, remove, restart etc.) webapps.",0,,2011-04-21 15:15:01.707000+00:00,2011-04-21 15:34:50.673000+00:00,2011-04-21 15:34:50.673000+00:00,,638471,,-1,3,0,
+5746107,"<p>For more information about the manager app of Apache Tomcat see the official documentation:
+<a href=""http://tomcat.apache.org/tomcat-5.5-doc/manager-howto.html"" rel=""nofollow"">http://tomcat.apache.org/tomcat-5.5-doc/manager-howto.html</a></p>",0,,2011-04-21 15:15:01.707000+00:00,2011-04-21 15:35:21.520000+00:00,2011-04-21 15:35:21.520000+00:00,,638471,,-1,3,0,
+3625211,"<p>This tag is for questions about migrating existing applications, or legacy code, from Visual Basic 6 to a more modern platform. Unfortunately migration is usually a tricky task. The most common target platforms are VB.Net and C#. </p>
+
+<p>Here are some typical motives for migration </p>
+
+<p>To use a more modern programming language for enhancements. </p>
+
+<p>This will give some increase in productivity. 
+This also keeps the developers happy, which is a valid business benefit </p>",0,,2010-08-05 17:30:34.703000+00:00,2010-09-02 08:23:06.010000+00:00,2010-09-02 08:23:06.010000+00:00,,15639,,-1,3,0,
+3625210,"<p>This tag is for questions about migrating <strong>existing applications</strong>, or <em>legacy code</em>, from <a href=""http://stackoverflow.com/questions/tagged?tagnames=vb6&amp;sort=info&amp;pagesize=50"">Visual Basic 6</a> to a more modern platform. Unfortunately migration is usually a tricky task. The most common target platforms are <a href=""http://stackoverflow.com/questions/tagged?tagnames=vb.net&amp;sort=info&amp;pagesize=50"">VB.Net</a> and <a href=""http://stackoverflow.com/questions/tagged?tagnames=c%23&amp;sort=info&amp;pagesize=50"">C#</a>. </p>
+
+<p>Here are some typical motives for migration </p>
+
+<ul>
+<li>To use a more modern programming language for <strong>enhancements</strong>. 
+
+<ul>
+<li>This will give some increase in productivity. </li>
+<li>This also keeps the developers happy, which is a valid business benefit in itself. There are <a href=""http://forums.construx.com/blogs/stevemcc/archive/2008/03/27/productivity-variations-among-software-developers-and-teams-the-origin-of-quot-10x-quot.aspx"" rel=""nofollow noreferrer"">bigger gains in productivity</a> from attracting and retaining <a href=""http://www.joelonsoftware.com/articles/HighNotes.html"" rel=""nofollow noreferrer"">good developers</a> than anything else. </li>
+</ul></li>
+<li>To use a <strong>fully supported</strong> programming stack. 
+
+<ul>
+<li>Although the VB6 runtime is still <a href=""http://msdn.microsoft.com/en-us/vbrun/ms788708.aspx"" rel=""nofollow noreferrer"">fully supported</a> by Microsoft as part of Windows, many people worry that support will be dropped one day. The VB6 IDE is no longer supported. </li>
+</ul></li>
+</ul>
+
+<p><strong>Frequently asked questions</strong></p>
+
+<ul>
+<li><em>What is the best strategy for migration?</em> There are a range of different opinions, as can be seen from the <a href=""http://stackoverflow.com/questions/tagged?tagnames=vb-migration&amp;sort=votes&amp;pagesize=50"">questions tagged <code>vb-migration</code></a>! For what it's worth, here is a <a href=""http://msdn.microsoft.com/en-gb/dd408373.aspx"" rel=""nofollow noreferrer"">Microsoft UK page with their advice</a>. </li>
+<li><a href=""http://stackoverflow.com/questions/507291/should-we-select-vb-net-or-c-when-upgrading-our-legacy-apps"">Should we select VB.Net or C#?</a> </li>
+<li><a href=""http://stackoverflow.com/questions/3319561/risks-around-relying-on-vb6-applications"">What are the risks around continuing to rely on VB6 applications?</a> </li>
+<li><a href=""http://stackoverflow.com/questions/400479/vb6-lives-forever-like-cobol"">Will VB6 live forever like COBOL?</a></li>
+</ul>",0,,2010-08-05 17:30:34.703000+00:00,2010-09-02 08:23:06.010000+00:00,2010-09-02 08:23:06.010000+00:00,,15639,,-1,3,0,
+5223741,LINQ to SQL is a component of Microsoft .NET Framework version 3.5 that provides a run-time infrastructure for managing relational data in SQL Server as objects.,0,,2011-03-07 18:45:14.090000+00:00,2011-03-07 18:45:14.090000+00:00,2011-03-07 18:45:14.090000+00:00,,102937,,-1,3,0,
+5223740,"<p>In LINQ to SQL, the data model of a relational database is mapped to an object model expressed in the programming language of the developer. When the application runs, LINQ to SQL translates into SQL the language-integrated queries (LINQ) in the object model and sends them to the database for execution. When the database returns the results, LINQ to SQL translates them back to objects that you can work with in your own programming language.</p>
+
+<p><a href=""http://msdn.microsoft.com/en-us/library/bb425822.aspx"" rel=""nofollow"">http://msdn.microsoft.com/en-us/library/bb425822.aspx</a></p>",0,,2011-03-07 18:45:14.090000+00:00,2011-03-07 18:45:14.090000+00:00,2011-03-07 18:45:14.090000+00:00,,102937,,-1,3,0,
+5012227,,0,,2011-02-16 03:27:20.400000+00:00,2011-02-16 05:22:38.077000+00:00,2011-02-16 05:22:38.077000+00:00,,102937,,-1,3,0,
+5012228,,0,,2011-02-16 03:27:20.400000+00:00,2011-02-16 05:22:38.093000+00:00,2011-02-16 05:22:38.093000+00:00,,102937,,-1,3,0,
+5127475,Silverlight has the capability of allowing Javascript and its own managed code to interact with one another,0,,2011-02-26 14:34:31.663000+00:00,2011-02-26 14:51:48.087000+00:00,2011-02-26 14:51:48.087000+00:00,,88092,,-1,3,0,
+5327822,"The exclamation mark (exclamation point or ""bang"") is often used in programming to denote negation.",0,,2011-03-16 15:46:48.297000+00:00,2011-03-16 16:01:08.890000+00:00,2011-03-16 16:01:08.890000+00:00,,161052,,-1,3,0,
+5327821,"<p>Several computer languages use ""!"" for various meanings, most importantly for logical negation; e.g. <code>A != B</code> means ""A is not equal to B"", and <code>!A</code> means ""the logical negation of A"" (also called ""not A"").</p>",0,,2011-03-16 15:46:48.297000+00:00,2011-03-16 16:01:06.410000+00:00,2011-03-16 16:01:06.410000+00:00,,161052,,-1,3,0,
+6044798,JBOss 4.3 is an Enterprise Application Server that contains various modules of components of JBoss application stack.,0,,2011-05-18 12:41:25.607000+00:00,2011-05-18 12:57:22.090000+00:00,2011-05-18 12:57:22.090000+00:00,,454686,,-1,3,0,
+5251685,"<p>Windows Workflow Foundation provides a programming model, in-process workflow engine and rehostable designer to implement long-running processes as workflows within .NET applications.</p>",0,,2011-03-09 20:22:09.240000+00:00,2011-03-09 20:41:09.287000+00:00,2011-03-09 20:41:09.287000+00:00,,229930,,-1,3,0,
+4729651,<p>Don't vote for me :)</p>,0,2011-01-18 22:13:11.890000+00:00,2011-01-18 22:13:11.890000+00:00,2011-01-18 22:13:11.890000+00:00,2011-01-18 22:13:11.890000+00:00,,525868,,525868,3,0,
+5703876,"User-defined content for the empty data row rendered when a web control (like GridView, ListView) is bound to a data source that does not contain any records.",0,,2011-04-18 13:50:35.497000+00:00,2011-04-18 14:16:00.643000+00:00,2011-04-18 14:16:00.643000+00:00,,322355,,-1,3,0,
+5023062,"Microsoft Dynamics CRM is a multi-lingual Customer Relationship Management software package developed by Microsoft. It has built in support for Sales, Marketing and Service.",0,,2011-02-16 22:41:06.250000+00:00,2011-02-16 22:42:27.497000+00:00,2011-02-16 22:42:27.497000+00:00,,73785,,-1,3,0,
+5023056,"Microsoft Dynamics CRM is a multi-lingual Customer Relationship Management software package developed by Microsoft. It has built in support for Sales, Marketing and Service.",0,,2011-02-16 22:40:44.893000+00:00,2011-02-16 22:42:24.563000+00:00,2011-02-16 22:42:24.563000+00:00,,73785,,-1,3,0,
+5023073,"Microsoft Dynamics CRM is a multi-lingual Customer Relationship Management software package developed by Microsoft. It has built in support for Sales, Marketing and Service. This tag is reserved for CRM 4.",0,,2011-02-16 22:41:45.923000+00:00,2011-02-16 22:47:42.680000+00:00,2011-02-16 22:47:42.680000+00:00,,73785,,-1,3,0,
+5945814,"Honeycomb is the name of version 3.0 of the Android Operating System.  An upcoming release, ""Ice Cream Sandwich"", is expected to combine the tablet and mobile versions.",0,,2011-05-10 05:58:02.250000+00:00,2011-05-10 06:26:26.417000+00:00,2011-05-10 06:26:26.417000+00:00,,667706,,-1,3,0,
+5945813,"<p>Honeycomb is the name of version 3.0 of the Android Operating System.  Honeycomb is specifically geared towards tablets (launching with the Motorola Xoom). An upcoming release, ""Ice Cream Sandwich"", is expected to combine the tablet and mobile versions.</p>",0,,2011-05-10 05:58:02.250000+00:00,2011-05-10 06:20:10.490000+00:00,2011-05-10 06:20:10.490000+00:00,,667706,,-1,3,0,
+4976348,This tag should not be used; use the tag [tag:pivot-table] instead.,0,,2011-02-12 04:33:48.497000+00:00,2011-02-12 04:33:48.497000+00:00,2011-02-12 04:33:48.497000+00:00,,15168,,-1,3,0,
+4976347,,0,,2011-02-12 04:33:48.497000+00:00,2011-02-12 04:33:48.497000+00:00,2011-02-12 04:33:48.497000+00:00,,15168,,-1,3,0,
+5760448,"<p>The significant-figures tag is a synonym for the tag significant-digits.</p>
+
+<p>See also: <a href=""http://en.wikipedia.org/wiki/Significant_figures"" rel=""nofollow"">Significant Figures - Wikipedia</a> </p>",0,,2011-04-22 21:52:03.663000+00:00,2011-04-22 22:09:18.200000+00:00,2011-04-22 22:09:18.200000+00:00,,15168,,-1,3,0,
+5760449,The significant-figures tag is a synonym for the tag significant-digits.,0,,2011-04-22 21:52:03.663000+00:00,2011-04-22 22:11:44.220000+00:00,2011-04-22 22:11:44.220000+00:00,,15168,,-1,3,0,
+5694559,<p>The tag [headerfile] is deprecated; please do not use it.  Use tag [header-files] or tag [header] instead.</p>,0,,2011-04-17 15:59:17.860000+00:00,2011-04-17 15:59:17.860000+00:00,2011-04-17 15:59:17.860000+00:00,,15168,,-1,3,0,
+5694560,Do not use the tag [headerfile].,0,,2011-04-17 15:59:17.860000+00:00,2011-04-17 15:59:17.860000+00:00,2011-04-17 15:59:17.860000+00:00,,15168,,-1,3,0,
+5039414,,0,,2011-02-18 09:09:13.903000+00:00,2011-02-18 09:09:13.903000+00:00,2011-02-18 09:09:13.903000+00:00,,342852,,-1,3,0,
+5039415,"Tag for questions relating to Java Platform Servlet Containers (e.g. Tomcat, Jetty)",0,,2011-02-18 09:09:13.903000+00:00,2011-02-18 09:09:13.903000+00:00,2011-02-18 09:09:13.903000+00:00,,342852,,-1,3,0,
+5248520,"In computer science, a doubly-linked list is a linked data structure that consists of a set of sequentially-linked records called nodes. Each node contains two fields, called links, that are references to the previous and to the next node in the sequence of nodes.",0,,2011-03-09 16:05:20.600000+00:00,2011-03-09 16:05:20.600000+00:00,2011-03-09 16:05:20.600000+00:00,,342852,,-1,3,0,
+5248519,,0,,2011-03-09 16:05:20.600000+00:00,2011-03-09 16:05:20.600000+00:00,2011-03-09 16:05:20.600000+00:00,,342852,,-1,3,0,
+5091141,"<blockquote>
+  <p>The Spring Framework supports
+  integration with Hibernate, Java
+  Persistence API (JPA), Java Data
+  Objects (JDO) and iBATIS SQL Maps for
+  resource management, data access
+  object (DAO) implementations, and
+  transaction strategies. For example,
+  for Hibernate there is first-class
+  support with several convenient IoC
+  features that address many typical
+  Hibernate integration issues. You can
+  configure all of the supported
+  features for O/R (object relational)
+  mapping tools through Dependency
+  Injection. They can participate in
+  Spring's resource and transaction
+  management, and they comply with
+  Spring's generic transaction and DAO
+  exception hierarchies. The recommended
+  integration style is to code DAOs
+  against plain Hibernate, JPA, and JDO
+  APIs. The older style of using
+  Spring's DAO templates is no longer
+  recommended; however, coverage of this
+  style can be found in the Section A.1,
+  <a href=""http://static.springsource.org/spring/docs/3.0.x/spring-framework-reference/html/classic-spring.html#classic-spring-orm"" rel=""nofollow"">“Classic ORM usage”</a> in the
+  appendices.</p>
+  
+  <p>Spring adds significant enhancements
+  to the ORM layer of your choice when
+  you create data access applications.
+  You can leverage as much of the
+  integration support as you wish, and
+  you should compare this integration
+  effort with the cost and risk of
+  building a similar infrastructure
+  in-house. You can use much of the ORM
+  support as you would a library,
+  regardless of technology, because
+  everything is designed as a set of
+  reusable JavaBeans. ORM in a Spring
+  IoC container facilitates
+  configuration and deployment. Thus
+  most examples in this section show
+  configuration inside a Spring
+  container.</p>
+</blockquote>
+
+<p><strong>Source:</strong></p>
+
+<p><a href=""http://static.springsource.org/spring/docs/3.0.x/spring-framework-reference/html/orm.html"" rel=""nofollow"">Spring Reference: Object Relational Mapping (ORM) Data Access</a></p>",0,,2011-02-23 12:50:34.573000+00:00,2011-02-23 12:50:34.573000+00:00,2011-02-23 12:50:34.573000+00:00,,342852,,-1,3,0,
+5091142,"Questions relating to Spring's ORM framework which contains support for Hibernate, JPA, JDO and iBATIS",0,,2011-02-23 12:50:34.573000+00:00,2011-02-23 12:50:34.573000+00:00,2011-02-23 12:50:34.573000+00:00,,342852,,-1,3,0,
+4919595,"<p>IE6 was released on August 27, 2001. </p>
+
+<p>This version of Internet Explorer is widely derided for its security issues and lack of support for modern web standards, making frequent appearances in ""worst tech products of all time"" lists, with some publications labeling it as the ""least secure software on the planet.""</p>
+
+<p>It is over a decade old and the internet has evolved past its limited features and usability although IE6 will be officially supported until 2014, 13 years after its release, it needs to be taken out!</p>
+
+<p>This tag reflects the desire of web developers everywhere for everyone to move away from IE6.</p>",0,,2011-02-07 09:16:21.687000+00:00,2011-02-07 09:36:34.897000+00:00,2011-02-07 09:36:34.897000+00:00,,287047,,-1,3,0,
+5565271,"<p>Team Foundation Server 2010 automated build is a workflow 4 based solution for the automated building of team foundation software solutions.</p>
+
+<p>see ""team-build"" as an alaternative tag.</p>",0,,2011-04-06 11:02:26.840000+00:00,2011-04-06 11:13:14.650000+00:00,2011-04-06 11:13:14.650000+00:00,,595787,,-1,3,0,
+6081637,Cobra is a programming language with a python like syntax that supports both static and dynamic typing. It currently targets the .net framework.,0,,2011-05-21 12:13:40.367000+00:00,2011-05-21 12:23:50.657000+00:00,2011-05-21 12:23:50.657000+00:00,,445517,,-1,3,0,
+6081636,"<p>Website: <a href=""http://cobra-language.com"" rel=""nofollow"">http://cobra-language.com</a></p>",0,,2011-05-21 12:13:40.367000+00:00,2011-05-21 12:23:48.037000+00:00,2011-05-21 12:23:48.037000+00:00,,445517,,-1,3,0,
+3625205,"<p>The DotNetOpenId tag is deprecated.  Please use the tag dotnetopenauth from now on.</p>
+
+<p>DotNetOpenId was the former name of the DotNetOpenAuth library, and was a free and open source library for .NET that offered OpenID 1.1 and 2.0 support to both Relying Parties and Providers.</p>",0,,2010-08-27 04:40:29.093000+00:00,2010-08-27 04:40:29.093000+00:00,2010-08-27 04:40:29.093000+00:00,,46926,,-1,3,0,
+3625204,"<p>The DotNetOpenId tag is deprecated.  Please use the tag <a href=""http://stackoverflow.com/questions/tagged/dotnetopenauth"">dotnetopenauth</a> from now on.</p>
+
+<p>DotNetOpenId was the former name of the DotNetOpenAuth library, and was a free and open source library for .NET that offered OpenID 1.1 and 2.0 support to both Relying Parties and Providers.</p>",0,,2010-08-27 04:40:29.093000+00:00,2010-08-27 04:40:29.093000+00:00,2010-08-27 04:40:29.093000+00:00,,46926,,-1,3,0,
+3625049,"<p>Please see the <a href=""http://stackoverflow.com/questions/tagged?tagnames=xslt&amp;sort=info"">info page for XSLT</a>.</p>",0,,2010-08-01 09:51:37.270000+00:00,2010-08-01 09:51:37.270000+00:00,2010-08-01 09:51:37.270000+00:00,,18771,,-1,3,0,
+3625050,<p>Please see the info page for XSLT.</p>,0,,2010-08-01 09:51:37.270000+00:00,2010-08-01 09:51:37.270000+00:00,2010-08-01 09:51:37.270000+00:00,,18771,,-1,3,0,
+4932178,The .NET Micro Framework is .NET for small and resource constrained devices. It offers a complete and innovative development and execution environment that brings the productivity of modern computing tools to this class of devices.,0,,2011-02-08 10:57:20.220000+00:00,2011-02-08 11:05:56.133000+00:00,2011-02-08 11:05:56.133000+00:00,,516179,,-1,3,0,
+4932177,"<p>.NET Micro Framework</p>
+
+<p>The .NET Micro Framework is .NET for small and resource constrained devices. It offers a complete and innovative development and execution environment that brings the productivity of modern computing tools to this class of devices.</p>
+
+<p>For current .NET developers, this means that they can now create applications that run on a range of devices from targeted devices like remote controls to PCs and Servers and on to the cloud – all with the same programming model and tools.</p>
+
+<p>For current Embedded developers, this means that they can now leverage the productivity gains that have been achieved on the desktop and reduce their time to market.</p>
+
+<p>The .NET Micro Framework is a fully integrated Visual Studio experience brings a reliable and productive development system to the embedded world.</p>",0,,2011-02-08 10:57:20.220000+00:00,2011-02-08 11:04:50.860000+00:00,2011-02-08 11:04:50.860000+00:00,,516179,,-1,3,0,
+4363262,"<p>In the summer of 2010 the PLT Scheme project was renamed and the language is now known as ""Racket"".  DrScheme was the PLT Scheme IDE, and it is now called DrRacket.  There are still some old questions which use the <code>drscheme</code> tag, but they should in general use <code>racket</code> instead.</p>",0,,2010-12-06 04:36:39.083000+00:00,2010-12-06 04:36:39.083000+00:00,2010-12-06 04:36:39.083000+00:00,,128595,,-1,3,0,
+4363263,DrScheme was the name of the PLT Scheme IDE.,0,,2010-12-06 04:36:39.083000+00:00,2010-12-06 04:36:39.083000+00:00,2010-12-06 04:36:39.083000+00:00,,128595,,-1,3,0,
+5843974,"In Assembly Language, JE is a conditional jump instruction meaning ""Jump if Equal"". It performs the test ZF=1",0,,2011-04-30 19:00:32.647000+00:00,2011-04-30 20:13:12.730000+00:00,2011-04-30 20:13:12.730000+00:00,,218717,,-1,3,0,
+5961141,.NET Remoting is a legacy technology of the .NET Framework for distributed applications. For development of new distributed applications it is recommened to use Windows Communication Foundation (WCF),0,,2011-05-11 08:09:55.177000+00:00,2011-05-11 08:38:38.093000+00:00,2011-05-11 08:38:38.093000+00:00,,83039,,-1,3,0,
+5605615,"<p><a href=""http://cran.r-project.org/web/packages/snowfall/index.html"" rel=""nofollow"">snowfall</a> allows for easier cluster computing and is a usability wrapper around the snow package.</p>
+
+<p>The package offers extended error checks and additional functions in addition to being able to work in sequential mode if no cluster is present.</p>
+
+<p>snowfall is also designed as non-dependent connector to the cluster management tool sfCluster.</p>
+
+<h3>See also</h3>
+
+<ul>
+<li><a href=""/questions/tagged/r"" class=""post-tag"" title=""show questions tagged 'r'"" rel=""tag"">r</a></li>
+<li><a href=""/questions/tagged/snow"" class=""post-tag"" title=""show questions tagged 'snow'"" rel=""tag"">snow</a></li>
+</ul>",0,,2011-04-09 14:28:55.913000+00:00,2011-04-09 14:42:34.030000+00:00,2011-04-09 14:42:34.030000+00:00,,9314,,-1,3,0,
+5605616,Wrapper for the snow package used in R programming language,0,,2011-04-09 14:28:55.913000+00:00,2011-04-09 14:42:32.483000+00:00,2011-04-09 14:42:32.483000+00:00,,9314,,-1,3,0,
+5605581,"<p><a href=""http://cran.r-project.org/web/packages/snow/index.html"" rel=""nofollow"">snow</a> is short for Simple Network of Workstations and used to support simple parallel computing in the <a href=""http://stackoverflow.com/questions/tagged/r"">R programming language</a>.</p>",0,,2011-04-09 14:22:10.077000+00:00,2011-04-09 14:42:36.537000+00:00,2011-04-09 14:42:36.537000+00:00,,9314,,-1,3,0,
+5605582,R project package used to support simple parallel computing,0,,2011-04-09 14:22:10.077000+00:00,2011-04-09 14:51:39.647000+00:00,2011-04-09 14:51:39.647000+00:00,,9314,,-1,3,0,
+3609896,,0,,2010-08-31 14:18:36.610000+00:00,2010-08-31 14:18:36.610000+00:00,2010-08-31 14:18:36.610000+00:00,,27491,,-1,3,0,
+5843981,A microkernel at the center of the XNU architecture.,0,,2011-04-30 19:01:39.123000+00:00,2011-04-30 21:33:17.407000+00:00,2011-04-30 21:33:17.407000+00:00,,160868,,-1,3,0,
+5928938,"Google Code Jam is a programming contest organized by Google. While several first rounds are online, the finals take place at a different Google office around the world each year.",0,,2011-05-08 17:09:04.170000+00:00,2011-05-08 17:32:32.417000+00:00,2011-05-08 17:32:32.417000+00:00,,41071,,-1,3,0,
+5251686,"Windows Workflow Foundation provides a programming model, in-process workflow engine and rehostable designer to implement long-running processes as workflows within .NET applications.",0,,2011-03-09 20:22:09.240000+00:00,2011-05-09 11:25:30.347000+00:00,2011-05-09 11:25:30.347000+00:00,,82037,,-1,3,0,
+5599005,wish is a simple shell and interpreter for the Tcl language and Tk GUI toolkit.,0,,2011-04-08 18:02:25.570000+00:00,2011-04-08 18:27:56.167000+00:00,2011-04-08 18:27:56.167000+00:00,,459640,,-1,3,0,
+5555488,"Orchard is a free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform",0,,2011-04-05 16:54:26.233000+00:00,2011-04-05 17:15:20.090000+00:00,2011-04-05 17:15:20.090000+00:00,,606586,,-1,3,0,
+4729552,<p>// can moderate</p>,2,2011-01-18 22:02:35.490000+00:00,2011-01-18 22:02:35.490000+00:00,2011-01-18 22:02:35.490000+00:00,2011-01-18 22:02:35.490000+00:00,,260990,,260990,3,0,
+4624274,"Zend Technologies is a software company offering a number of (free and commercial) PHP related technologies, including Zend Framework, Zend Server and Zend Studio.  Because Zend is a company offering a broad choice of products and services, there is no clear definition of when this tag makes sense to use. In general, you should try to use one of the more distinct tags.",0,,2011-01-07 09:50:40.607000+00:00,2011-03-29 04:20:28.897000+00:00,2011-03-29 04:20:28.897000+00:00,,168868,,-1,3,0,
+4217902,"<p>There are lots of approaches to searching a corpus of text, full-text and keyword being the most used.  Searching for people has enough overlap that it can be its own search problem.  One common scenario is knowing part of someones name.  A keyword search would fail while a full-text search could return lots of low-quality results.</p>",0,,2010-11-18 17:49:03.620000+00:00,2010-11-18 17:49:03.620000+00:00,2010-11-18 17:49:03.620000+00:00,,135078,,-1,3,0,
+4217903,Searching for people has different challenges,0,,2010-11-18 17:49:03.620000+00:00,2010-11-18 17:49:03.620000+00:00,2010-11-18 17:49:03.620000+00:00,,135078,,-1,3,0,
+4857707,"A framework for building scalable, standards-based web applications using well-established design patterns and the power of ASP.NET and the .NET Framework. This tag is used for problems specific to version 3 of the framework.",0,,2011-02-01 00:26:30.520000+00:00,2011-02-08 09:54:48.383000+00:00,2011-02-08 09:54:48.383000+00:00,,59303,,-1,3,0,
+4857706,"<p>The <a href=""http://www.asp.net/mvc"" rel=""nofollow"">ASP.NET MVC Framework</a> is a Microsoft web application framework that implements the model-view-controller (MVC) pattern. Based on ASP.NET, it allows software developers to build a Web application as a composition of three roles: Model, View and Controller. </p>
+
+<p>A model represents the state of a particular aspect of the application. Frequently, a model maps to a database table with the entries in the table representing the state of the application. A controller handles interactions and updates the model to reflect a change in state of the application, and then passes information to the view. A view accepts necessary information from the controller and renders a user interface to display that.</p>
+
+<p>The latest stable version is available from the <a href=""http://www.microsoft.com/downloads/en/details.aspx?FamilyID=d2928bc1-f48c-4e95-a064-2a455a22c8f6"" rel=""nofollow"">Microsoft Download Center</a> website.</p>
+
+<p>Latest announcements from Microsoft usually come from Scott Guthrie's <a href=""http://weblogs.asp.net/scottgu/"" rel=""nofollow"">blog</a>. Other notable blogs relating to MVC include <a href=""http://haacked.com/"" rel=""nofollow"">Phil Haack</a> and <a href=""http://hanselman.com"" rel=""nofollow"">Scott Hanselman</a>.</p>",0,,2011-02-01 00:26:30.520000+00:00,2011-02-08 09:54:00.160000+00:00,2011-02-08 09:54:00.160000+00:00,,59303,,-1,3,0,
+4931567,The ASP.NET MVC 2 Framework is version 2 of the Microsoft web application framework that implements the model-view-controller (MVC) pattern. This tag is used for problems specific to version 2 of the framework.,0,,2011-02-08 09:52:26.573000+00:00,2011-02-08 09:52:26.573000+00:00,2011-02-08 09:52:26.573000+00:00,,59303,,-1,3,0,
+4931566,"<p>The <a href=""http://www.asp.net/mvc"" rel=""nofollow"">ASP.NET MVC Framework</a> is a Microsoft web application framework that implements the model-view-controller (MVC) pattern. Based on ASP.NET, it allows software developers to build a Web application as a composition of three roles: Model, View and Controller. </p>
+
+<p>A model represents the state of a particular aspect of the application. Frequently, a model maps to a database table with the entries in the table representing the state of the application. A controller handles interactions and updates the model to reflect a change in state of the application, and then passes information to the view. A view accepts necessary information from the controller and renders a user interface to display that.</p>
+
+<p>The latest stable version - <a href=""http://stackoverflow.com/questions/tagged/asp.net-mvc-3"">MVC 3</a> - is available from the <a href=""http://www.microsoft.com/downloads/en/details.aspx?FamilyID=d2928bc1-f48c-4e95-a064-2a455a22c8f6"" rel=""nofollow"">Microsoft Download Center</a> website.</p>
+
+<p>Latest announcements from Microsoft usually come from Scott Guthrie's <a href=""http://weblogs.asp.net/scottgu/"" rel=""nofollow"">blog</a>. Other notable blogs relating to MVC include <a href=""http://haacked.com/"" rel=""nofollow"">Phil Haack</a> and <a href=""http://hanselman.com"" rel=""nofollow"">Scott Hanselman</a>.</p>",0,,2011-02-08 09:52:26.573000+00:00,2011-02-08 09:52:26.573000+00:00,2011-02-08 09:52:26.573000+00:00,,59303,,-1,3,0,
+4624273,"<h1>Zend Technologies Ltd.</h1>
+
+<p><a href=""http://zend.com"" rel=""nofollow"">Zend Technologies</a> is a software company offering a number of (free and commercial) PHP related technologies, including Zend Framework, Zend Server and Zend Studio. They sponsor a number of other projects and organize <a href=""http://www.zendcon.com/"" rel=""nofollow"">ZendCon</a>, one of the largest PHP conferences in the world. Zend also offers trainings and certification programs.</p>
+
+<hr>
+
+<h2>Tag Purpose</h2>
+
+<p>The <a href=""/questions/tagged/zend"" class=""post-tag"" title=""show questions tagged 'zend'"" rel=""tag"">zend</a> tag is an umbrella tag and <strong>should be avoided</strong>. Because Zend is a company offering a broad choice of products and services, there is no clear definition of when this tag makes sense to use. In general, you should try to use one of the more distinct tags, like </p>
+
+<ul>
+<li><a href=""/questions/tagged/zend-framework"" class=""post-tag"" title=""show questions tagged 'zend-framework'"" rel=""tag"">zend-framework</a> or <a href=""/questions/tagged/zf"" class=""post-tag"" title=""show questions tagged 'zf'"" rel=""tag"">zf</a> for questions about Zend Framework, </li>
+<li><a href=""/questions/tagged/zend-studio"" class=""post-tag"" title=""show questions tagged 'zend-studio'"" rel=""tag"">zend-studio</a> for questions about Zend's commercial IDE, </li>
+<li><a href=""/questions/tagged/zend-server"" class=""post-tag"" title=""show questions tagged 'zend-server'"" rel=""tag"">zend-server</a> for questions about Zend's server appliance, </li>
+<li><a href=""/questions/tagged/zend-guard"" class=""post-tag"" title=""show questions tagged 'zend-guard'"" rel=""tag"">zend-guard</a> for questions about Zend's source code obfuscator, </li>
+<li><a href=""/questions/tagged/zend-engine"" class=""post-tag"" title=""show questions tagged 'zend-engine'"" rel=""tag"">zend-engine</a> for questions about writing extensions and the inner workings of PHP.</li>
+</ul>",0,,2011-01-07 09:50:40.607000+00:00,2011-02-03 09:18:11.287000+00:00,2011-02-03 09:18:11.287000+00:00,,208809,,-1,3,0,
+5119121,"<p>There are a lot of things called ""PDB"" which are potentially on-topic here; sometimes the asker won't know which one they're dealing with.</p>
+
+<p>The easiest to distinguish is probably the Python debugger named <code>pdb</code>, because it doesn't involve the file extension <code>.pdb</code>; its tag is <a href=""/questions/tagged/pdb-python"" class=""post-tag"" title=""show questions tagged 'pdb-python'"" rel=""tag"">pdb-python</a>.</p>
+
+<p>Formats stored in files with a <code>.pdb</code> extension:</p>
+
+<ul>
+<li>The Program Database debugging information format(s) used by MS development tools; see the tag <a href=""/questions/tagged/pdb-ms"" class=""post-tag"" title=""show questions tagged 'pdb-ms'"" rel=""tag"">pdb-ms</a>.</li>
+<li>The ""<a href=""http://www.wwpdb.org/"" rel=""nofollow"">Protein Data <i>Bank</i></a>"" <a href=""http://www.wwpdb.org/docs.html"" rel=""nofollow"">format</a>, designed for representing experimentally-determined molecular structures for proteins (though not restricted to that use, as evidenced by the abundance of water molecules in the protein structure files), as determined by (for example) x-ray crystallography. See the slightly misnamed tag <a href=""/questions/tagged/protein-database"" class=""post-tag"" title=""show questions tagged 'protein-database'"" rel=""tag"">protein-database</a>.</li>
+</ul>
+
+<p>[FIXME <a href=""/questions/tagged/palm-pdb"" class=""post-tag"" title=""show questions tagged 'palm-pdb'"" rel=""tag"">palm-pdb</a> needs a listing; it's actually the trickiest of the lot as I recall. --<a href=""http://stackoverflow.com/users/294313/samb"">SamB</a>]</p>",0,,2011-02-25 15:32:25.230000+00:00,2011-02-25 15:35:24.917000+00:00,2011-02-25 15:35:24.917000+00:00,,294313,,-1,3,0,
+5119122,"Tag for use by askers who don't know what kind of PDB they are dealing with; please use [pdb-ms], [pdb-palm], [pdb-python], or [protein-database] if you can!",0,,2011-02-25 15:32:25.230000+00:00,2011-02-25 15:35:27.087000+00:00,2011-02-25 15:35:27.087000+00:00,,294313,,-1,3,0,
+4641976,"Ruby on Rails 3 is the most recent version of a quickly-growing, rapid application development framework based on Ruby and meta programming techniques.",0,,2011-01-09 21:35:15.317000+00:00,2011-01-09 21:35:15.317000+00:00,2011-01-09 21:35:15.317000+00:00,,365738,,-1,3,0,
+4641975,"<h2>About Rails</h2>
+
+<p>Rails is a framework built on Ruby that provides developers and easy way to build an full-featured application. It is popular among many developers from novices to experiences developers working for large corporations. In short, it utilizes <a href=""http://en.wikipedia.org/wiki/Model%E2%80%93View%E2%80%93Controller"" rel=""nofollow"">MVC fundamentals</a> and lives by the phrase 'convention over configuration' (CoC) and 'don't repeat yourself' (DRY). </p>
+
+<hr>
+
+<h2>Rails 3</h2>
+
+<p>Rails 3 is the most recent version of the Rails framework and provides a few upgrades and differences from its predecessors:</p>
+
+<ul>
+<li>Brand new router with an emphasis on RESTful declarations</li>
+<li>New Action Mailer API modeled after Action Controller</li>
+<li>New Active Record chainable query language built on top of relational algebra</li>
+<li>Unobtrusive JavaScript helpers with drivers for Prototype and jQuery</li>
+<li>Explicit dependency management with Bundler</li>
+</ul>
+
+<p>These are cited from the <a href=""http://edgeguides.rubyonrails.org/3_0_release_notes.html"" rel=""nofollow"">Rails 3 release notes</a>. Some other new features include a better console environment. You can now start the rails server, console, etc using the alias <code>rails</code>:</p>
+
+<pre><code>rails s          #starts rails server
+rails server     #starts rails server
+rails c          #starts rails console
+rails console    #starts rails console
+</code></pre>
+
+<p>For more information on changes, see the [Rails 3 release notes].<a href=""http://edgeguides.rubyonrails.org/3_0_release_notes.html"" rel=""nofollow"">2</a></p>
+
+<hr>
+
+<h2>Caveats</h2>
+
+<p>This is such a huge topic that it's actually worth mentioning in this wiki. All too often, Rails is compared to another popular web-founded programming language - <a href=""http://php.net"" rel=""nofollow"">PHP</a>. Despite what you may hear, there is no competition between PHP and Rails.</p>
+
+<p>Furthermore, PHP is often directly compared to Rails in terms of efficiency, usability, scalability, etc. This is an entirely unfair comparison. Rails (actually Ruby on Rails) is a <strong><a href=""http://en.wikipedia.org/wiki/Web_application_framework"" rel=""nofollow"">framework</a></strong> built on Ruby. If you read an article comparing Rails and PHP, the article is unfounded. </p>
+
+<p>To adequately compare the two languages, one must either:</p>
+
+<ul>
+<li>compare PHP and Ruby</li>
+<li>compare Rails and a PHP framework like <a href=""http://codeigniter.com"" rel=""nofollow"">CodeIgniter</a> or <a href=""http://cakephp.org/"" rel=""nofollow"">CakePHP</a></li>
+</ul>
+
+<p>Please keep this is mind in literature you come across in your development.</p>
+
+<hr>
+
+<h2>Helpful Links</h2>
+
+<ul>
+<li><a href=""http://guides.rubyonrails.org"" rel=""nofollow"">The official RoR guides</a></li>
+<li><a href=""http://railscasts.com/tags/27"" rel=""nofollow"">Rails 3 specific Railscasts by Ryan Bates</a></li>
+<li><a href=""https://rails.lighthouseapp.com/dashboard"" rel=""nofollow"">Rails 3 Git Log/Bugs</a></li>
+<li><a href=""http://edgeguides.rubyonrails.org/3_0_release_notes.html"" rel=""nofollow"">Rails 3 release notes</a></li>
+</ul>",0,,2011-01-09 21:35:15.317000+00:00,2011-01-09 21:35:15.317000+00:00,2011-01-09 21:35:15.317000+00:00,,365738,,-1,3,0,
+5700716,"<p>The Non-Virtual Interface pattern: <a href=""http://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Non-Virtual_Interface"" rel=""nofollow"">http://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Non-Virtual_Interface</a></p>",0,,2011-04-18 09:10:42.480000+00:00,2011-04-18 09:10:42.480000+00:00,2011-04-18 09:10:42.480000+00:00,,140719,,-1,3,0,
+5700717,A pattern describing class hierarchies that have no irtual functions in their interfaces.,0,,2011-04-18 09:10:42.480000+00:00,2011-04-18 09:10:42.480000+00:00,2011-04-18 09:10:42.480000+00:00,,140719,,-1,3,0,
+3961170,"<p>The j8583 library helps creating ISO8583 messages, as well as parsing them which is usually very cumbersome work. It has a MessageFactory that can be configured through an XML file to enable it to parse messages and also to create new messages with predefined values in certain fields.</p>
+
+<p>j8583 is published under the LGPL. More info at the <a href=""http://j8583.sourceforge.net/"" rel=""nofollow"">official page</a>.</p>",0,,2010-10-18 16:28:13.220000+00:00,2010-10-18 16:28:13.220000+00:00,2010-10-18 16:28:13.220000+00:00,,10165,,-1,3,0,
+3961171,j8583 is a Java library for handling ISO8583 messages,0,,2010-10-18 16:28:13.220000+00:00,2010-10-18 16:28:13.220000+00:00,2010-10-18 16:28:13.220000+00:00,,10165,,-1,3,0,
+5447375,The Entity Framework 4.1 Release Candidate.,0,,2011-03-27 05:08:54.730000+00:00,2011-03-27 07:02:27.233000+00:00,2011-03-27 07:02:27.233000+00:00,,567736,,-1,3,0,
+5447374,"<p>The Entity Framework 4.1 Release Candidate.</p>
+
+<p><a href=""http://blogs.msdn.com/b/adonet/archive/2011/03/15/ef-4-1-release-candidate-available.aspx"" rel=""nofollow"">http://blogs.msdn.com/b/adonet/archive/2011/03/15/ef-4-1-release-candidate-available.aspx</a></p>
+
+<p>This release is a stepping stone between CTP5 (http://blogs.msdn.com/b/adonet/archive/2010/12/06/ef-feature-ctp5-released.aspx) and the final release.</p>",0,,2011-03-27 05:08:54.730000+00:00,2011-03-27 07:05:49.277000+00:00,2011-03-27 07:05:49.277000+00:00,,567736,,-1,3,0,
+5444690,"Entity Framework 4.1 Release Candidate
+
+http://blogs.msdn.com/b/adonet/archive/2011/03/15/ef-4-1-release-candidate-available.aspx",0,,2011-03-26 19:18:31.400000+00:00,2011-03-26 21:01:58.533000+00:00,2011-03-26 21:01:58.533000+00:00,,567736,,-1,3,0,
+3625206,"<p><strong>Description</strong></p>
+
+<p>The Microsoft UI Automation Framework is a part of the Microsoft .Net Framework (from 3.0 on) that enables elements on the Windows Desktop to be manipulated programmatically regardless of the technology they were originally created by - although typically they will be WinForms, WPF or Silverlight applications. </p>
+
+<p>The principle uses of the UIAutomation Framework are creating Screen Readers, and Test Automation.</p>
+
+<p><strong>Resources</strong></p>
+
+<ul>
+<li><a href=""http://msdn.microsoft.com/en-us/library/ms747327.aspx"" rel=""nofollow noreferrer"">UIAutomation Framework on MSDN</a></li>
+<li><a href=""http://blog.functionalfun.net/2009/06/introduction-to-ui-automation-with.html"" rel=""nofollow noreferrer"">An Introduction to UI Automation</a></li>
+<li><a href=""http://white.codeplex.com/"" rel=""nofollow noreferrer"">Project White</a></li>
+</ul>",0,,2010-08-05 10:04:10.137000+00:00,2010-09-02 08:23:01.157000+00:00,2010-09-02 08:23:01.157000+00:00,,1727,,-1,3,0,
+3625207,"<p>Description</p>
+
+<p>The Microsoft UI Automation Framework is a part of the Microsoft .Net Framework (from 3.0 on) that enables elements on the Windows Desktop to be manipulated programmatically regardless of the technology they were originally created by - although typically they will be WinForms, WPF or Silverlight applications. </p>
+
+<p>The principle uses of the UIAutomation Framework are creating Screen Readers, and Test Automation.</p>
+
+<p>Resources</p>
+
+<p>UIAutomation </p>",0,,2010-08-05 10:04:10.137000+00:00,2010-09-02 08:23:01.173000+00:00,2010-09-02 08:23:01.173000+00:00,,1727,,-1,3,0,
+3688248,,0,,2010-09-10 20:50:55.843000+00:00,2010-09-10 20:50:55.843000+00:00,2010-09-10 20:50:55.843000+00:00,,120261,,-1,3,0,
+3688249,"<p>DSP is an acronym for digital signal processing.  Common DSP operations are filtering, convolution, and Fourier transforms.  DSP arises in audio, image, and scientific data processing.</p>",0,,2010-09-10 20:50:55.843000+00:00,2010-09-10 20:50:55.843000+00:00,2010-09-10 20:50:55.843000+00:00,,120261,,-1,3,0,
+6109241,JibGrid is a silverlight grid control that provides features for conditional filtering of the data.,0,,2011-05-24 10:46:40.300000+00:00,2011-05-24 17:01:25.050000+00:00,2011-05-24 17:01:25.050000+00:00,,179910,,-1,3,0,
+6061588,A no javascript question is one which asks about creating web pages which will work on browsers without javascript enabled.,0,,2011-05-19 16:10:59.253000+00:00,2011-05-19 16:42:15.023000+00:00,2011-05-19 16:42:15.023000+00:00,,215752,,-1,3,0,
+4613770,"Html Agility Pack is an HTML parser for the .NET platform. It is very tolerant to ""real world"" malformed HTML.",0,,2011-01-06 10:07:48.750000+00:00,2011-01-06 10:07:48.750000+00:00,2011-01-06 10:07:48.750000+00:00,,403671,,-1,3,0,
+4613769,"<p>Html Agility Pack (a.k.a ""HAP"") is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT (you actually don't HAVE to understand XPATH nor XSLT to use it, don't worry...). It is a .NET code library that allows you to parse ""out of the web"" HTML files. The parser is very tolerant with ""real world"" malformed HTML. The object model is very similar to what proposes System.Xml, but for HTML documents (or streams).</p>
+
+<p>Html Agility Pack now supports Linq to Objects (via a LINQ to Xml Like interface).</p>
+
+<p>Sample applications:</p>
+
+<ul>
+<li>Page fixing or generation. You can fix a page the way you want, modify the DOM, add nodes, copy nodes, well... you name it.</li>
+<li>Web scanners. You can easily get to img/src or a/hrefs with a bunch XPATH queries.</li>
+<li>Web scrapers. You can easily scrap any existing web page into an RSS feed for example, with just an XSLT file serving as the binding. Examples are is provided.</li>
+</ul>
+
+<p>There is no dependency on anything else than .Net's XPATH implementation. There is no dependency on Internet Explorer's MSHTML dll or W3C's HTML tidy or ActiveX / COM object, or anything like that. There is also no adherence to XHTML or XML, although you can actually produce XML using the tool.</p>
+
+<p>The binaries and source code can be downloaded from CodePlex here: <a href=""http://htmlagilitypack.codeplex.com/"" rel=""nofollow"">http://htmlagilitypack.codeplex.com/</a></p>",0,,2011-01-06 10:07:48.750000+00:00,2011-01-06 10:07:48.750000+00:00,2011-01-06 10:07:48.750000+00:00,,403671,,-1,3,0,
+3609905,"<p>Please do not use this tag.</p>
+
+<p>If a question is off-topic and you have enough reputation, simply vote to close it. If you do not have enough reputation and you feel the question is not likely to be closed in a timely manner, flag it for moderator attention.</p>",0,,2010-07-22 18:39:58.787000+00:00,2010-08-31 14:19:00.400000+00:00,2010-08-31 14:19:00.400000+00:00,,13531,,-1,3,0,
+6111550,"<p>This tags describes all questions about Android-specific usage details of SQLite. This includes transaction handling, database access and prepared statements.</p>",0,,2011-05-24 13:56:49.893000+00:00,2011-05-24 14:02:01.577000+00:00,2011-05-24 14:02:01.577000+00:00,,726755,,-1,3,0,
+6109800,WBF stands for Windows Biometric Framework from Microsoft.,0,,2011-05-24 11:39:28.970000+00:00,2011-05-24 12:28:34.237000+00:00,2011-05-24 12:28:34.237000+00:00,,118500,,-1,3,0,
+6109799,"<p>Windows Biometric Framework (See: <a href=""http://msdn.microsoft.com/en-us/windows/hardware/gg463089"" rel=""nofollow"">http://msdn.microsoft.com/en-us/windows/hardware/gg463089</a>) is a framework from Microsoft. In Windows® 7, the Windows Biometric Framework (WBF) provides support for fingerprint biometric devices through a new set of components. These components improve the quality, reliability, and consistency of the user experience for customers who have fingerprint biometric devices.</p>",0,,2011-05-24 11:39:28.970000+00:00,2011-05-24 12:28:29.213000+00:00,2011-05-24 12:28:29.213000+00:00,,118500,,-1,3,0,
+6109240,<p>JibGrid is a silverlight grid control available on Codeplex (http://jibgrid.codeplex.com/) that provides nice features for conditional filtering of the data.</p>,0,,2011-05-24 10:46:40.300000+00:00,2011-05-24 11:17:01.280000+00:00,2011-05-24 11:17:01.280000+00:00,,118500,,-1,3,0,
+5585462,The back to basics tag can be used when experienced developers want to ask a question that gets back to the fundamentals of a language.  It is a question around the basics of a language or reasons around a language construct.  One typical use may be a programmer who is learning a new language trying to figure out how the basics of the new language map to his understanding of a language he already knows well.,0,,2011-04-07 18:00:11.557000+00:00,2011-04-07 18:07:44.440000+00:00,2011-04-07 18:07:44.440000+00:00,,311525,,-1,3,0,
+5214919,This tag groups questions about systematic procedures or formulas to accomplish specific programming results,0,,2011-03-07 01:36:46.377000+00:00,2011-03-07 02:22:22.407000+00:00,2011-03-07 02:22:22.407000+00:00,,15081,,-1,3,0,
+5831452,Fragments API is a new technology of reusale views in android.,0,,2011-04-29 11:32:56.137000+00:00,2011-04-29 12:04:04.927000+00:00,2011-04-29 12:04:04.927000+00:00,,473070,,-1,3,0,
+5831451,"<p>Fragments API was introduced in Android 3.0 but is available for earlier platforms with compatibility package, which is available through SDK Updater (SDK Setup) with label «Android Compatibility package».</p>",0,,2011-04-29 11:32:56.137000+00:00,2011-04-29 12:04:04.360000+00:00,2011-04-29 12:04:04.360000+00:00,,473070,,-1,3,0,
+6008760,"<p>Suggested alternative tags</p>
+
+<p><a href=""/questions/tagged/image-scanner"" class=""post-tag"" title=""show questions tagged 'image-scanner'"" rel=""tag"">image-scanner</a>
+<a href=""/questions/tagged/lexical-scanner"" class=""post-tag"" title=""show questions tagged 'lexical-scanner'"" rel=""tag"">lexical-scanner</a>
+<a href=""/questions/tagged/java-util-scanner"" class=""post-tag"" title=""show questions tagged 'java-util-scanner'"" rel=""tag"">java-util-scanner</a>
+<a href=""/questions/tagged/barcode-scanner"" class=""post-tag"" title=""show questions tagged 'barcode-scanner'"" rel=""tag"">barcode-scanner</a>
+<a href=""/questions/tagged/network-scanner"" class=""post-tag"" title=""show questions tagged 'network-scanner'"" rel=""tag"">network-scanner</a></p>",0,,2011-05-15 13:47:05.170000+00:00,2011-05-15 13:47:05.170000+00:00,2011-05-15 13:47:05.170000+00:00,,21234,,-1,3,0,
+6008761,"This is an ambiguous tag, and should not be used",0,,2011-05-15 13:47:05.170000+00:00,2011-05-15 13:47:05.170000+00:00,2011-05-15 13:47:05.170000+00:00,,21234,,-1,3,0,
+3625131,"<p>See <a href=""/questions/tagged/oracle-apex"" class=""post-tag"" title=""show questions tagged &#39;oracle-apex&#39;"" rel=""tag"">oracle-apex</a></p>",0,,2010-09-02 08:20:50.523000+00:00,2011-05-09 15:39:31.500000+00:00,2011-05-09 15:39:31.500000+00:00,,21234,,-1,3,0,
+5644764,"<p>Please use the <a href=""/questions/tagged/eclipse-emf"" class=""post-tag"" title=""show questions tagged 'eclipse-emf'"" rel=""tag"">eclipse-emf</a> tag.</p>",0,,2011-04-13 05:22:45.627000+00:00,2011-05-11 11:42:15.520000+00:00,2011-05-11 11:42:15.520000+00:00,,21234,,-1,3,0,
+5644765,The Eclipse Modelling Framework (EMF),0,,2011-04-13 05:22:45.627000+00:00,2011-05-11 11:42:15.550000+00:00,2011-05-11 11:42:15.550000+00:00,,21234,,-1,3,0,
+3621159,,0,,2010-08-02 06:04:30.050000+00:00,2011-05-09 15:39:31.483000+00:00,2011-05-09 15:39:31.483000+00:00,,21234,,-1,3,0,
+5755523,"<p>The main features of Zend Framework 1.7 are:</p>
+
+<ol>
+<li>New Zend_AMF component</li>
+<li>Dojo Toolkit 1.2.0</li>
+<li>New ZendX_JQuery component</li>
+<li>Support for dijit editor</li>
+<li>Metadata API in Zend_Cache</li>
+<li>Google book search API</li>
+<li>Performance enhancements</li>
+<li>Application-wide locale with other i18n enhancements</li>
+<li>File upload form element enhancements</li>
+</ol>",0,,2011-04-22 12:44:49.420000+00:00,2011-04-22 12:45:57.447000+00:00,2011-04-22 12:45:57.447000+00:00,,21234,,-1,3,0,
+5943237,Obsolete tag. See http://programmers.stackexchange.com/,0,,2011-05-09 22:27:33.963000+00:00,2011-05-30 19:30:22.523000+00:00,2011-05-30 19:30:22.523000+00:00,,21234,,-1,3,0,
+5943236,,0,,2011-05-09 22:27:33.963000+00:00,2011-05-30 19:30:22.510000+00:00,2011-05-30 19:30:22.510000+00:00,,21234,,-1,3,0,
+5177466,"Deprecated, use sts-springsourcetoolsuite.",0,,2011-03-03 06:32:24.463000+00:00,2011-03-10 08:15:42.303000+00:00,2011-03-10 08:15:42.303000+00:00,,331508,,-1,3,0,
+4729558,,0,2011-01-18 22:03:04.133000+00:00,2011-01-18 22:03:04.133000+00:00,2011-01-18 22:03:04.133000+00:00,2011-01-18 22:03:04.133000+00:00,,7412,,7412,3,0,
+5891897,Bullet3D is a physics simulation library for game primarily. It offers believable 3D physics simulation.,0,,2011-05-05 02:05:11.137000+00:00,2011-05-05 03:03:30.153000+00:00,2011-05-05 03:03:30.153000+00:00,,246776,,-1,3,0,
+3676434,<p>Questions relating to the Simple Service Locator IoC library for .NET.</p>,0,,2010-09-09 12:21:00.623000+00:00,2010-09-09 12:21:00.623000+00:00,2010-09-09 12:21:00.623000+00:00,,264697,,-1,3,0,
+3676433,,0,,2010-09-09 12:21:00.623000+00:00,2010-09-09 12:21:00.623000+00:00,2010-09-09 12:21:00.623000+00:00,,264697,,-1,3,0,
+4915651,"""capturing"" is ambiguous.  Please specify whether you mean capturing audio/video (tag `audio-capture` or `video-capture` or `screen-scraping`), regular expression captures (tag: `capturing-group`), or creation of a lexical scope (captured variables) in a lambda expression or nested function, or the capture phase of event handling in JavaScript (tag: `event-handling` or `javascript-events`)",0,,2011-02-06 19:44:04.247000+00:00,2011-02-06 19:49:09.317000+00:00,2011-02-06 19:49:09.317000+00:00,,103167,,-1,3,0,
+4915650,"<p>The term ""capture"" has many different meanings in programming, among them:</p>
+
+<ul>
+<li>Audio and video capture, also screen capture</li>
+<li>A regular expression can ""capture"" part of the match and then refer to it with a backreference during string replacement.  Most regex libraries also provide API-level access to capture results.</li>
+<li>When a lexical scope is created by referring to names in the enclosing scope from a nested function (e.g. anonymous function or anonymous method) or lambda expression, the variables thus referred to are ""captured"".</li>
+<li>Javascript event handling has a ""capturing"" phase which allows the programmer to prevent bubbling of certain events.</li>
+</ul>",0,,2011-02-06 19:44:04.247000+00:00,2011-02-06 19:53:31.937000+00:00,2011-02-06 19:53:31.937000+00:00,,103167,,-1,3,0,
+6061587,,0,,2011-05-19 16:10:59.253000+00:00,2011-05-19 16:10:59.253000+00:00,2011-05-19 16:10:59.253000+00:00,,-1,,-1,3,0,
+5928937,,0,,2011-05-08 17:09:04.170000+00:00,2011-05-08 17:09:04.170000+00:00,2011-05-08 17:09:04.170000+00:00,,-1,,-1,3,0,
+5023061,,0,,2011-02-16 22:41:06.250000+00:00,2011-02-16 22:41:06.250000+00:00,2011-02-16 22:41:06.250000+00:00,,-1,,-1,3,0,
+5703875,,0,,2011-04-18 13:50:35.497000+00:00,2011-04-18 13:50:35.497000+00:00,2011-04-18 13:50:35.497000+00:00,,-1,,-1,3,0,
+5961140,,0,,2011-05-11 08:09:55.177000+00:00,2011-05-11 08:09:55.177000+00:00,2011-05-11 08:09:55.177000+00:00,,-1,,-1,3,0,
+5214918,,0,,2011-03-07 01:36:46.377000+00:00,2011-03-07 01:36:46.377000+00:00,2011-03-07 01:36:46.377000+00:00,,-1,,-1,3,0,
+5843980,,0,,2011-04-30 19:01:39.123000+00:00,2011-04-30 19:01:39.123000+00:00,2011-04-30 19:01:39.123000+00:00,,-1,,-1,3,0,
+5444689,,0,,2011-03-26 19:18:31.400000+00:00,2011-03-26 19:18:31.400000+00:00,2011-03-26 19:18:31.400000+00:00,,-1,,-1,3,0,
+5072204,,0,,2011-02-21 22:52:33.277000+00:00,2011-02-21 22:52:33.277000+00:00,2011-02-21 22:52:33.277000+00:00,,-1,,-1,3,0,
+5072205,,0,,2011-02-21 22:52:33.277000+00:00,2011-02-21 22:52:33.277000+00:00,2011-02-21 22:52:33.277000+00:00,,-1,,-1,3,0,
+5023055,,0,,2011-02-16 22:40:44.893000+00:00,2011-02-16 22:40:44.893000+00:00,2011-02-16 22:40:44.893000+00:00,,-1,,-1,3,0,
+5142776,,0,,2011-02-28 13:47:34.653000+00:00,2011-02-28 13:47:34.653000+00:00,2011-02-28 13:47:34.653000+00:00,,-1,,-1,3,0,
+5142775,,0,,2011-02-28 13:47:34.653000+00:00,2011-02-28 13:47:34.653000+00:00,2011-02-28 13:47:34.653000+00:00,,-1,,-1,3,0,
+5913235,,0,,2011-05-06 14:59:11.133000+00:00,2011-05-06 14:59:11.133000+00:00,2011-05-06 14:59:11.133000+00:00,,-1,,-1,3,0,
+5913236,,0,,2011-05-06 14:59:11.133000+00:00,2011-05-06 14:59:11.133000+00:00,2011-05-06 14:59:11.133000+00:00,,-1,,-1,3,0,
+6044797,,0,,2011-05-18 12:41:25.607000+00:00,2011-05-18 12:41:25.607000+00:00,2011-05-18 12:41:25.607000+00:00,,-1,,-1,3,0,
+5843973,,0,,2011-04-30 19:00:32.647000+00:00,2011-04-30 19:00:32.647000+00:00,2011-04-30 19:00:32.647000+00:00,,-1,,-1,3,0,
+5311371,,0,,2011-03-15 11:59:40.380000+00:00,2011-03-15 11:59:40.380000+00:00,2011-03-15 11:59:40.380000+00:00,,-1,,-1,3,0,
+5311372,,0,,2011-03-15 11:59:40.380000+00:00,2011-03-15 11:59:40.380000+00:00,2011-03-15 11:59:40.380000+00:00,,-1,,-1,3,0,
+3625277,<p>This tag is used for questions about developing for Microsoft Windows using the Win32 API. The Win32 API is principally a set of C header files and libraries allowing it to be easily used by C++ and languages as diverse and Python and Lua.</p>,0,,2010-09-02 08:23:21.500000+00:00,2010-09-02 08:23:21.500000+00:00,2010-09-02 08:23:21.500000+00:00,,-1,,-1,3,0,
+5078601,,0,,2011-02-22 13:15:03.580000+00:00,2011-02-22 13:15:03.580000+00:00,2011-02-22 13:15:03.580000+00:00,,-1,,-1,3,0,
+5078600,,0,,2011-02-22 13:15:03.580000+00:00,2011-02-22 13:15:03.580000+00:00,2011-02-22 13:15:03.580000+00:00,,-1,,-1,3,0,
+5177573,"<p>Deprecated.   Use <a href=""/questions/tagged/sts-securitytokenservice"" class=""post-tag"" title=""show questions tagged &#39;sts-securitytokenservice&#39;"" rel=""tag"">sts-securitytokenservice</a> instead.   See: <a href=""http://meta.stackexchange.com/questions/78923/ambiguous-tag-sts/82404#82404"">http://meta.stackexchange.com/questions/78923/ambiguous-tag-sts/82404#82404</a>, for more information.</p>",0,,2011-03-03 06:46:30.907000+00:00,2011-03-11 02:07:44.807000+00:00,2014-04-24 17:07:48.717000+00:00,,-1,,-1,3,0,
+5177574,"<p>Deprecated.   Use the sts-securitytokenservice tag instead.   See: <a href=""http://meta.stackexchange.com/questions/78923/ambiguous-tag-sts/82404#82404"">http://meta.stackexchange.com/questions/78923/ambiguous-tag-sts/82404#82404</a></p>",0,,2011-03-03 06:46:30.907000+00:00,2011-03-11 02:07:47.833000+00:00,2014-04-24 17:07:48.717000+00:00,,-1,,-1,3,0,
+6111551,,0,,2011-05-24 13:56:49.893000+00:00,2011-05-24 13:56:49.893000+00:00,2011-05-24 13:56:49.893000+00:00,,-1,,-1,3,0,
+5585461,,0,,2011-04-07 18:00:11.557000+00:00,2011-04-07 18:00:11.557000+00:00,2011-04-07 18:00:11.557000+00:00,,-1,,-1,3,0,
+3625121,"<p>Please do not use this tag.</p>
+
+<p>If a question is off-topic and you have enough reputation, simply vote to close it. If you do not have enough reputation and you feel the question is not likely to be closed in a timely manner, flag it for moderator attention.</p>",0,,2010-09-02 08:20:44.250000+00:00,2010-09-02 08:20:44.250000+00:00,2010-09-02 08:20:44.250000+00:00,,-1,,-1,3,0,
+4897439,,0,,2011-02-04 11:22:50.863000+00:00,2011-02-04 11:22:50.863000+00:00,2011-02-04 11:22:50.863000+00:00,,-1,,-1,3,0,
+4897440,,0,,2011-02-04 11:22:50.863000+00:00,2011-02-04 11:22:50.863000+00:00,2011-02-04 11:22:50.863000+00:00,,-1,,-1,3,0,
+5177465,"<p>Deprecated, use <a href=""/questions/tagged/sts-springsourcetoolsuite"" class=""post-tag"" title=""show questions tagged &#39;sts-springsourcetoolsuite&#39;"" rel=""tag"">sts-springsourcetoolsuite</a> per <a href=""http://meta.stackexchange.com/q/80829/148310"">http://meta.stackexchange.com/q/80829/148310</a> and <a href=""http://meta.stackexchange.com/q/78923/148310"">http://meta.stackexchange.com/q/78923/148310</a>.</p>",0,,2011-03-03 06:32:24.463000+00:00,2011-03-10 08:15:31.667000+00:00,2014-04-24 17:07:48.717000+00:00,,-1,,-1,3,0,
+5127474,,0,,2011-02-26 14:34:31.663000+00:00,2011-02-26 14:34:31.663000+00:00,2011-02-26 14:34:31.663000+00:00,,-1,,-1,3,0,
+5094152,,0,,2011-02-23 17:00:07.353000+00:00,2011-02-23 17:00:07.353000+00:00,2011-02-23 17:00:07.353000+00:00,,-1,,-1,3,0,
+5094151,,0,,2011-02-23 17:00:07.353000+00:00,2011-02-23 17:00:07.353000+00:00,2011-02-23 17:00:07.353000+00:00,,-1,,-1,3,0,
+5555487,,0,,2011-04-05 16:54:26.233000+00:00,2011-04-05 16:54:26.233000+00:00,2011-04-05 16:54:26.233000+00:00,,-1,,-1,3,0,
+5023072,,0,,2011-02-16 22:41:45.923000+00:00,2011-02-16 22:41:45.923000+00:00,2011-02-16 22:41:45.923000+00:00,,-1,,-1,3,0,
+5813828,,0,,2011-04-28 05:02:49.923000+00:00,2011-04-28 05:02:49.923000+00:00,2011-04-28 05:02:49.923000+00:00,,-1,,-1,3,0,
+5813827,,0,,2011-04-28 05:02:49.923000+00:00,2011-04-28 05:02:49.923000+00:00,2011-04-28 05:02:49.923000+00:00,,-1,,-1,3,0,
+5072208,,0,,2011-02-21 22:52:38.883000+00:00,2011-02-21 22:52:38.883000+00:00,2011-02-21 22:52:38.883000+00:00,,-1,,-1,3,0,
+5072207,,0,,2011-02-21 22:52:38.883000+00:00,2011-02-21 22:52:38.883000+00:00,2011-02-21 22:52:38.883000+00:00,,-1,,-1,3,0,
+5565272,,0,,2011-04-06 11:02:26.840000+00:00,2011-04-06 11:02:26.840000+00:00,2011-04-06 11:02:26.840000+00:00,,-1,,-1,3,0,
+5599004,,0,,2011-04-08 18:02:25.570000+00:00,2011-04-08 18:02:25.570000+00:00,2011-04-08 18:02:25.570000+00:00,,-1,,-1,3,0,
+4919596,,0,,2011-02-07 09:16:21.687000+00:00,2011-02-07 09:16:21.687000+00:00,2011-02-07 09:16:21.687000+00:00,,-1,,-1,3,0,
+5755524,,0,,2011-04-22 12:44:49.420000+00:00,2011-04-22 12:44:49.420000+00:00,2011-04-22 12:44:49.420000+00:00,,-1,,-1,3,0,
+5125269,,0,,2011-02-26 05:31:11.553000+00:00,2011-02-26 05:31:11.553000+00:00,2011-02-26 05:31:11.553000+00:00,,-1,,-1,3,0,
+5125268,,0,,2011-02-26 05:31:11.553000+00:00,2011-02-26 05:31:11.553000+00:00,2011-02-26 05:31:11.553000+00:00,,-1,,-1,3,0,
+5108177,,0,,2011-02-24 17:24:35.553000+00:00,2011-02-24 17:24:35.553000+00:00,2011-02-24 17:24:35.553000+00:00,,-1,,-1,3,0,
+5108178,,0,,2011-02-24 17:24:35.553000+00:00,2011-02-24 17:24:35.553000+00:00,2011-02-24 17:24:35.553000+00:00,,-1,,-1,3,0,
+5891896,,0,,2011-05-05 02:05:11.137000+00:00,2011-05-05 02:05:11.137000+00:00,2011-05-05 02:05:11.137000+00:00,,-1,,-1,3,0,
+4947870,"<p>This tag ""STS"" has been a cause of a fair bit of confusion as it is used for three different technologies that also all have at least one other tag as well.</p>
+
+<p>To help users pick the right tag, in lieu of ""STS"", <strong>please lock this tag out</strong> -- as was done for certain other tags (EG: beginner).</p>
+
+<p>Retagging is underway to replace STS and associated tags with:</p>
+
+<ul>
+<li><a href=""/questions/tagged/sts-securitytokenservice"" class=""post-tag"" title=""show questions tagged &#39;sts-securitytokenservice&#39;"" rel=""tag"">sts-securitytokenservice</a></li>
+<li><a href=""/questions/tagged/sts-simple-templatesystem"" class=""post-tag"" title=""show questions tagged &#39;sts-simple-templatesystem&#39;"" rel=""tag"">sts-simple-templatesystem</a></li>
+<li><a href=""/questions/tagged/sts-springsourcetoolsuite"" class=""post-tag"" title=""show questions tagged &#39;sts-springsourcetoolsuite&#39;"" rel=""tag"">sts-springsourcetoolsuite</a></li>
+</ul>
+
+<p>This way, when a user types one of the 6 terms they are familiar/comfortable with, auto-complete will help them pick the correct one of 3 tags (instead of the current 6 plus).</p>
+
+<p>See <a href=""http://meta.stackexchange.com/questions/78923/ambiguous-tag-sts"">http://meta.stackexchange.com/questions/78923/ambiguous-tag-sts</a> for more information. (Other meta questions pending.)</p>
+
+<p>Finally, note that the new tags are hampered by the 25 character limit -- which is the reason that they are not (yet): <em>sts-security-token-service</em>, <em>sts-simple-template-system</em>, and <em>sts-springsource-tool-suite</em>.</p>",0,,2011-02-09 16:45:44.107000+00:00,2011-03-10 06:56:03.343000+00:00,2014-04-24 17:07:48.717000+00:00,,-1,,-1,3,0,
+4947871,"<p>Deprecated, please use one of: 
+sts-securitytokenservice,
+sts-simple-templatesystem, 
+sts-springsourcetoolsuite
+instead.  See: <a href=""http://meta.stackexchange.com/q/78923/148310"">http://meta.stackexchange.com/q/78923/148310</a> .</p>",0,,2011-02-09 16:45:44.107000+00:00,2011-03-10 06:56:59.570000+00:00,2014-04-24 17:07:48.717000+00:00,,-1,,-1,3,0,
+4954650,,0,,2011-02-10 07:58:39.723000+00:00,2011-02-10 07:58:39.723000+00:00,2011-02-10 07:58:39.723000+00:00,,-1,,-1,3,0,
+4954649,,0,,2011-02-10 07:58:39.723000+00:00,2011-02-10 07:58:39.723000+00:00,2011-02-10 07:58:39.723000+00:00,,-1,,-1,3,0,
