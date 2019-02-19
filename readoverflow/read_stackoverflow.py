@@ -31,7 +31,9 @@ def main(argv):
 
     # get data
     for table in argv[2:]:
+        print(table)
         get_data(client, so_dataset_ref, table, limit)
+
 
 if __name__ == "__main__":
     main(sys.argv)

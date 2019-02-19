@@ -10,3 +10,11 @@ Pre-processing includes
 * Convert id as string
 * Split tags into multiple keywords
 * Group posts by different keywords
+
+Analysis
+
+* Top 100 tag
+* Top 10 tag mean, median, mode by year(2008 to 2018)
+* All tags's mean, median, mode by numbers
+* Top 10 tag Quartiles
+* Top 5 tag's correlation
