@@ -2,3 +2,4 @@ google-cloud
 google-cloud-bigquery
 scikit-learn
 beautifulsoup4
+gensim

@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import numpy as np
 
+
 # Common Vectorizer doesn't work very well since we have too many words
 # https://scikit-learn.org/stable/modules/feature_extraction.html#the-bag-of-words-representation
 #
@@ -12,9 +13,13 @@ import numpy as np
 
 # Trying sparse vectorizer
 # https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.HashingVectorizer.html
+#
+# from sklearn.feature_extraction.text import HashingVectorizer
+#
+# from sklearn.feature_extraction.text import TfidfVectorizer
+from gensim.models.doc2vec import TaggedDocument, Doc2Vec
 
 # I could use pandas but here it's very simple.
-from sklearn.feature_extraction.text import HashingVectorizer
 
 
 def get_stop_words(stop_words_file):
@@ -44,7 +49,9 @@ def clean_text(text):
 
 def main(argv):
     stop_words = get_stop_words('stopwords.txt')
-    vectorizer = HashingVectorizer(stop_words=stop_words, n_features=2**4)
+    # vectorizer = HashingVectorizer(stop_words=stop_words, n_features=2**4)
+    # tfidf  = TfidfVectorizer()
+
     count = 0
     corpus = []
     js = np.arange(654)
@@ -53,17 +60,20 @@ def main(argv):
             cols = line.split(",")
             soup = BeautifulSoup(cols[1], 'html.parser')
             corpus.append(clean_text(soup.get_text()))
-            print(cols[18].lower().find("javascript"))
+            # print(cols[18].lower().find("javascript"))
             js[count] = (cols[18].lower().find("javascript") >= 0)
             if count == 653:
                 break
-            print(f"count = {count}")
+            # print(f"count = {count}")
             count += 1
 
-    x = vectorizer.fit_transform(corpus).toarray()
+    # x = vectorizer.fit_transform(corpus).toarray()
+    # x =  tfidf.fit_transform(corpus).toarray()
+    x = Doc2Vec(corpus, size=5, min_count=0).docvecs
     print(f"x.shape = {x.shape}, js.shape = {js.shape}")
     r = np.hstack((x, js.reshape(654, 1)))
-    np.savetxt("vector.csv", r, delimiter=",", newline='\n')
+    # np.savetxt("vector.csv", r, delimiter=",", newline='\n')
+    np.savetxt("tfidf.csv", r, delimiter=",", newline='\n')
 
 
 if __name__ == "__main__":
