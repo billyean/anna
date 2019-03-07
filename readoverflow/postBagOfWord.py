@@ -49,7 +49,7 @@ def clean_text(text):
 
 def main(argv):
     # stop_words = get_stop_words('stopwords.txt')
-    vectorizer = HashingVectorizer(stop_words='english', alternate_sign=False, n_features=2**6)
+    vectorizer = HashingVectorizer(stop_words='english', alternate_sign=False, n_features=2**5)
     # tfidf  = TfidfVectorizer()
 
     count = 0
