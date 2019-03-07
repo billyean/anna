@@ -14,22 +14,22 @@ import numpy as np
 # Trying sparse vectorizer
 # https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.HashingVectorizer.html
 #
-# from sklearn.feature_extraction.text import HashingVectorizer
+from sklearn.feature_extraction.text import HashingVectorizer
 #
 # from sklearn.feature_extraction.text import TfidfVectorizer
-from gensim.models.doc2vec import TaggedDocument, Doc2Vec
+# from gensim.models.doc2vec import TaggedDocument, Doc2Vec
 
 # I could use pandas but here it's very simple.
 
 
-def get_stop_words(stop_words_file):
-    stop_words = []
-    with open(stop_words_file, "rt") as swf:
-        for line in swf:
-            words = line.split()
-            for word in words:
-                stop_words.append(word)
-    return stop_words
+# def get_stop_words(stop_words_file):
+#     stop_words = []
+#     with open(stop_words_file, "rt") as swf:
+#         for line in swf:
+#             words = line.split()
+#             for word in words:
+#                 stop_words.append(word)
+#     return stop_words
 
 
 def clean_text(text):
@@ -48,8 +48,8 @@ def clean_text(text):
 
 
 def main(argv):
-    stop_words = get_stop_words('stopwords.txt')
-    # vectorizer = HashingVectorizer(stop_words=stop_words, n_features=2**4)
+    # stop_words = get_stop_words('stopwords.txt')
+    vectorizer = HashingVectorizer(stop_words='english', token_pattern='(?u)\b\w\w+\b', analyzer='word', ngram_range=(1, 40), n_features=2**4)
     # tfidf  = TfidfVectorizer()
 
     count = 0
@@ -67,13 +67,13 @@ def main(argv):
             # print(f"count = {count}")
             count += 1
 
-    # x = vectorizer.fit_transform(corpus).toarray()
+    x = vectorizer.fit_transform(corpus).toarray()
     # x =  tfidf.fit_transform(corpus).toarray()
-    x = Doc2Vec(corpus, size=5, min_count=0).docvecs
+    # x = Doc2Vec(corpus, size=5, min_count=0).docvecs
     print(f"x.shape = {x.shape}, js.shape = {js.shape}")
     r = np.hstack((x, js.reshape(654, 1)))
-    # np.savetxt("vector.csv", r, delimiter=",", newline='\n')
-    np.savetxt("tfidf.csv", r, delimiter=",", newline='\n')
+    np.savetxt("vector.csv", r, delimiter=",", newline='\n')
+    # np.savetxt("tfidf.csv", r, delimiter=",", newline='\n')
 
 
 if __name__ == "__main__":
