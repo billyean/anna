@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+  <name>06023000100</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ca_tracts">
+		<SimpleData name="id">06023000100</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-124.190919,40.790736 -124.190727,40.791781 -124.189834,40.7943 -124.186557,40.801547 -124.184199,40.805914 -124.181615,40.810137 -124.178857,40.814008 -124.176399,40.816742 -124.17304,40.819507 -124.17002,40.821548 -124.162603,40.816629 -124.154775,40.809119 -124.154118,40.808223 -124.153768,40.807396 -124.153671,40.806992 -124.158768,40.805987 -124.161599,40.805691 -124.164646,40.805746 -124.161189,40.79135 -124.184687,40.791537 -124.185013,40.790691 -124.190919,40.790736</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</kml>
